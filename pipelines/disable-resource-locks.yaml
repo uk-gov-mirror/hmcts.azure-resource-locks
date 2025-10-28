@@ -29,6 +29,7 @@ parameters:
     - 'DTS-HERITAGE-INTSVC-PROD'
     - 'DTS-HERITAGE-EXTSVC-STG'
     - 'DTS-DATAINGEST-PROD'
+    - 'MOJ DCD Atlassian LVE'
   - name: resourceGroup
     displayName: Resource group
     type: string
